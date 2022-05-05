@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "zaza the best",
+    "mongoUri": "mongodb+srv://tadarronzaza:19zaza96@cluster0.hzdeo.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
